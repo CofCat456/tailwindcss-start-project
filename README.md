@@ -1,12 +1,17 @@
-### TailwindCSS-WebPack 
+# TailwindCSS-WebPack 
 
-## first step
+## How To Use?
+
+### First Step
 
 ```sh
 npm i 
 ```
-## second step
+### Second Step 
 
 ```sh
-npm dev 
+npm run dev
 ```
+## Then you will see this
+
+### [Demo](https://cofcat456.github.io/tailwindcss-start-project/)
